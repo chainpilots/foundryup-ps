@@ -7,7 +7,7 @@ Update or revert to a specific Foundry branch with ease.
 ## Installing
 
 ```powershell
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/chainpilots/foundryup-win/main/install.ps1 -OutFile install.ps1; .\install.ps1; Remove-Item .\install.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/chainpilots/foundryup-ps/main/install.ps1 -OutFile install.ps1; .\install.ps1; Remove-Item .\install.ps1
 ```
 Tested with Powershell 7.4.6.
 
